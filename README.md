@@ -1,2 +1,2 @@
 # FCC-Survey-Form
-FCC proj to make a Survey Form in Responsive Web Design Certification
+FCC proj to make a Survey Form for Responsive Web Design Certification
