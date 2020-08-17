@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+body
+{
+  background:#ffebef;
+  
+}
+
+.container
+{
+    width: 800px;
+    border: 1px solid #ffd1da;
+    border-radius: 5px;
+    margin: auto;
+    padding: 4px;
+  background:pink;
+}
+#title
+{  font-family: 'Indie Flower', cursive;
+  color:white;
+  font-size:50px;
+  text-align:center;
+}
+#description
+{  font-family: 'Indie Flower', cursive;
+  color:white;
+  text-align:center;
+  font-size:30px; 
+}
+.group
+{
+  font-family: 'Indie Flower', cursive;
+  text-align:center;
+  color:white;
+  font-size:30px;
+}
+#imgs
+{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+#img
+{
+  padding-left:140px;
+  padding-right:40px;
+  height:200px;
+  width:200px;
+}
+#img2
+{
+  height:200px;
+  width:200px;
+}
+#n
+{
+  padding-left:175px;
+  text-align:center;
+}
+
+#n2
+{
+  text-align:center;
+}
+#dropdown
+{
+  font-family: 'Indie Flower', cursive;
+  font-size:20px;
+  width:100px;
+  border:none;
+}
+#fname
+{
+  border:none;
+  height:30px;
+}
+#lname
+{
+  border:none;
+  height:30px;
+}
+#email
+{
+  border:none;
+  height:30px;
+}
+label {
+   width: 200px;
+  text-align:center;
+  display:inline-block;
+}
+#number-label
+{
+  text-align:center;
+}
+#number
+{
+  height:30px;
+  width:100px;
+  border:none;
+  font-family: 'Indie Flower', cursive;
+  font-size:25px;
+  text-align:center;
+}
+#dropdown
+{
+  text-align:center;
+  font-size:25px;
+}
+#des
+{
+    text-align:center;
+}
+#address
+{
+  font-family: 'Indie Flower', cursive;
+  text-align:center;
+  font-size:20px;
+  width:400px;
+  height:200px;
+}
+#submit
+{
+  font-family: 'Indie Flower', cursive;
+  text-align:center;
+  font-size:20px;
+  border:none;
+}
+#submit:hover
+{
+   background-color:#8bd5c3;
+  border:none;
+}
+#add
+{
+  border:none;
+  height:30px;
+}
